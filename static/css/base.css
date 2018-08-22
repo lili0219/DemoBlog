@@ -1,0 +1,14 @@
+body{
+    background-color: #f3f3f3;
+}
+.Content{
+    background-color: #fff;
+    width: 730px;
+    margin: 10px auto;
+    overflow: hidden;
+    padding: 10px;
+}
+.logo{
+    width: 128.66px;
+    height: 40px;
+}
